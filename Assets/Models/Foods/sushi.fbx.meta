@@ -3,7 +3,22 @@ guid: cc797d3633cb2fb4c9ec81afa3b1f112
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate
+    second: {fileID: 2100000, guid: 09547aee2e295f743a5d57855b7d5211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rice
+    second: {fileID: 2100000, guid: 9467b4e74a0443b48859293f418299dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salmon
+    second: {fileID: 2100000, guid: 14295404da541614cb23cdda697580fc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
